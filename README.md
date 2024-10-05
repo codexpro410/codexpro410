@@ -18,12 +18,6 @@
     <a href="https://github.com/codexpro410/github-readme-stats"><img alt="codexpro410's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codexpro410&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/codexpro410/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexpro410&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codexpro410&show_icons=true&locale=en" alt="codexpro410" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codexpro410&" alt="codexpro410" /></p>
 
 
